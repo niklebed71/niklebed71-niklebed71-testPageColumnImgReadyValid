@@ -1,0 +1,13 @@
+.hi {
+    display: none;
+}
+.what-row {
+    margin: 0px 20px !important;
+}
+.column-row-header {
+    font-size: 40px !important;
+    padding: 5px;
+}
+.vertical {
+    display: none;
+}
